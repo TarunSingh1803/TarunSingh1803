@@ -1,10 +1,7 @@
 # 💫 About Me:
 I am a pre final year Computer Science Engineer UnderGrad looking to explore deep text tech stacks at the intersection of data science, machine learning and software developments
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TarunSIngh1803/count.svg?" />
-</div>
+
 
 
 # 💻 Tech Stack:
@@ -18,4 +15,8 @@ I am a pre final year Computer Science Engineer UnderGrad looking to explore dee
 [![](https://visitcount.itsvg.in/api?id=TarunSingh1803&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<div align="left">
+  <img src="https://profile-counter.glitch.me/TarunSIngh1803/count.svg?" />
+</div>
 
