@@ -1,5 +1,7 @@
 # 💫 About Me:
 I am a pre final year Computer Science Engineer UnderGrad looking to explore deep text tech stacks at the intersection of data science, machine learning and software developments
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
