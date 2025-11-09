@@ -1,4 +1,4 @@
-# 💫 About MeD
+# 💫 About Me
 I am a pre final year Computer Science Engineer UnderGrad looking to explore deep text tech stacks at the intersection of Data Science, Machine Learning and Software Developments
 
 
